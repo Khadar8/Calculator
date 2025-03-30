@@ -18,3 +18,6 @@ A **basic calculator** built using **HTML, CSS, and JavaScript**. It supports **
 - **HTML** (Structure)  
 - **CSS** (Styling)  
 - **JavaScript** (Functionality)
+
+👨‍💻 Your Name
+🔗 GitHub Profile
